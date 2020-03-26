@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 """
 Creates spider charts for Player Chracters based on D&D like stast
 """
