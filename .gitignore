@@ -123,3 +123,6 @@ dmypy.json
 .pyre/
 *.xml
 *.iml
+
+# VS Code
+.vscode
